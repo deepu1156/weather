@@ -1,0 +1,31 @@
+@CHARSET "ISO-8859-1";
+
+.navbar-font-large {
+	font-size: large;
+}
+.navbar-font-xlarge {
+	font-size: x-large;
+}
+.header-title {
+	color: rgb(255,255,255);
+	font-size: x-large;
+	margin-top: 10px;
+	margin-left: 30px;
+}
+.header-form {
+	margin-top: 15px;
+	margin-left: 90px;
+	color: rgb(255,255,255);
+}
+.header-btn {
+	margin-left: 10px;
+}
+.navbar-form input {
+	margin-left: 5px;
+}
+.dummy-line {
+	margin-top: 20px;
+}
+.myCalendar {
+	font-size: normal;
+}
